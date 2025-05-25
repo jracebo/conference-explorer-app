@@ -1,6 +1,6 @@
 
-# Senior React Next JS Developer
-#### Code Assignment – Conference Explorer Application
+# Conference Explorer Application
+#### Code Assignment – SENIOR FRONTEND DEVELOPER
 
 
 #### **Author**:  
