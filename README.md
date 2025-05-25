@@ -123,8 +123,8 @@ Based on App router pattern.
   - In my 9+ years of Front End Development, this project is both nostalgic and fun to develop. 
     Having the criteria of not allowing frameworks and UI libraries made it both challenging and rewarding during build time.
     I honestly used the time indicated of 1 ~ 4 hours to have realistic output and expectation. I mainly focused on acceptance criteria first
-    before adding enhancements in the display. I dedicated 1 ~ 4 hours showcasing my development decisions in the code, which 
-    I hope we can discuss. Whatever happens, thanks for giving me this chance to build this. Though it may not the best UI you can get with the time constraint,
+    before adding enhancements in the display. I dedicated 1 ~ 4 hours showcasing my development decisions in the code, core knowledge, work ethics and principles,
+    which  I hope we can discuss. Whatever happens, thanks for giving me this chance to build this. Though it may not the best UI you can get with the time constraint,
     but having me in your team can be the best way of the universe for me to follow my passion in deisgning and development.
     
     Talk soon. 
