@@ -3,8 +3,9 @@
 ___________________________________________________________
 ## Author: James Russell Acebo
 ### About:
-    This is a simple Conference Explorer App where you can browse conference and see their details.
-    This aims to showcase developer's knowledge and development descisions based on the project's acceptance criteria.
+    This is a simple Conference Explorer App where you can browse 
+    conference and see their details. This aims to showcase developer's 
+    knowledge and development descisions based on the project's acceptance criteria.
 ### Version: 1.0
 Technologies Used:
 Change Notes:
