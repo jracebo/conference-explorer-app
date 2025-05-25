@@ -96,6 +96,7 @@ Based on App router pattern.
 ---
 
 #### Dev Setup Requirements:
+   - Clone and run `npm install` first.
    - When setting up locally, please create a **.env** file and add the following line. </br>
 
      `NEXT_PUBLIC_GRAPHQL_API_URI=https://api.react-finland.fi/graphql`
