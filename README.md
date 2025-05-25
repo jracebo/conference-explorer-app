@@ -108,6 +108,11 @@ Based on App router pattern.
 
 #### Additional Information: 
 - **Approximate Time of Development:** 4hrs and 17 mins. _(Windows automatically restarted lol)_.
+- Accessibility score and SEO score based on Google Lighthouse (simple test)
+  
+  ![image](https://github.com/user-attachments/assets/a4456ed7-2077-4769-8ff0-3913387bb1f5)
+
+---
 
 #### TO REVIEWER
   - In my 9+ years of Front End Development, this project is both nostalgic and fun to develop. 
