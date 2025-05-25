@@ -1,0 +1,51 @@
+.cardContainer {
+    position: relative;
+    height: 500px;
+    width: 390px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px $shadow;
+    border-radius: 4px;
+
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    cursor: pointer;
+
+    &:hover {
+        transform: scale(1.03);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    }
+
+    .cardImage {
+        height: 240px;
+        width: 350px;
+    }
+
+    .cardContent {
+        margin-top: 18px;
+
+        .cardTitle {
+            font-size: 18px;
+            margin: 8px 0;
+        }
+
+        .dateGroup {
+            display: flex;
+            gap: 8px;
+            font-size: 14px;
+            margin-bottom: 16px;
+        }
+    }
+
+    .btnContainer {
+        position: absolute;
+        bottom: 15px;
+        right: 20px;
+    }
+
+}
+
+.location {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8px;
+    gap: 4px;
+}

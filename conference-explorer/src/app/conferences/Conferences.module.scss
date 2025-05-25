@@ -1,0 +1,43 @@
+.pageBody {
+    .headingGroup {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 50px;
+
+        .pageHeading {
+            font-size: 32px;
+            margin-bottom: 16px;
+        }
+    }
+
+    .sortingGroup {
+        display: flex;
+        align-items: center;
+        justify-content: stretch;
+        margin-bottom: 30px;
+
+        .label {
+            margin-right: 20px;
+        }
+
+        .select {
+            height: 30px;
+            width: 200px;
+            border-radius: 4px;
+            border: none;
+            background-color: $color-soft;
+            padding: 0 8px;
+        }
+    }
+
+    .cardGroup {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 24px;
+        transition: transform 0.3s ease, top 0.3s ease, left 0.3s ease;
+    }
+}
