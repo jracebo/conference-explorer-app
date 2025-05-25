@@ -87,11 +87,15 @@ Based on App router pattern.
       - SASS
   - Developer added `providers.ts` to ensure that Apollo client gets passed down to layouts and
     pages without explicitly passing them via hooks, or as props.
+    
   - Developer added `.env.d.ts` to harden type definition of .end file + to let our Typescript compiler that a .env file exists
     as part of our solution.
+    
   - In the `next.config.ts`, developer added `sassOptions` configuration to allow `variables` and `common` stylesheets
     gets loaded on ALL sass modules without explicitly importing them.
+    
   - In the `tsconfig.json`, developer modified the baseUrl to use `src` and paths to `*`, to make import cleaner and easier.
+    
   - Developer used reroute from boilerplate base page to conferences page index page to make it the landing page.
 ---
 
